@@ -2,4 +2,9 @@ ipykernel
 pandas
 numpy
 matplotlib
+tqdm
+datasets
 torch
+ipywidgets 
+widgetsnbextension 
+pandas-profiling
